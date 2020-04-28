@@ -28,9 +28,9 @@ Nos reunimos semanalmente abarcando temas específicos, revisando el material di
 
 Tema  | Notebook |
 ------|:-:|
-Data Exploration & Image Pre-Processing | [![](./imgs/icon_jupyter.png)](./Week%201/AI4M_C1_W1_lecture_ex_01.ipynb)
-Counting labels and weighted loss function | [![](./imgs/icon_jupyter.png)](./Week%201/AI4M_C1_W1_lecture_ex_02.ipynb)
-Densenet | [![](./imgs/icon_jupyter.png)](./Week%201/AI4M_C1_W1_lecture_ex_03.ipynb)
+Data Exploration & Image Pre-Processing | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%201/AI4M_C1_W1_lecture_ex_01.ipynb)
+Counting labels and weighted loss function | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%201/AI4M_C1_W1_lecture_ex_02.ipynb)
+Densenet | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%201/AI4M_C1_W1_lecture_ex_03.ipynb)
 Patient Overlap - practice |
 
 ____
