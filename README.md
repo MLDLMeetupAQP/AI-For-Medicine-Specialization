@@ -22,7 +22,7 @@ Nos reunimos semanalmente abarcando temas específicos, revisando el material di
 </a>
 </p>
 
-¿Cómo se puede aplicar Inteligencia Artificial en imágenes médicas para diagnosticar enfermedades? En este primer curso, aprenderemos sobre a  trabajar con datos de imágenes médicas en 2D y 3D, para la clasificación de varias clases y la segmentación de imágenes. Luego aplicaremos lo aprendido para clasificar enfermedades en imágenes de rayos X y segmentar tumores en imágenes cerebrales de resonancia magnética en 3D. Finalmente, aprenderemos a evaluar adecuadamente el rendimiento de nuestros modelos.
+¿Cómo se puede aplicar Inteligencia Artificial en imágenes médicas para diagnosticar enfermedades? En este primer curso, aprenderemos a  trabajar con datos de imágenes médicas en 2D y 3D, para la clasificación de varias clases y la segmentación de imágenes. Luego aplicaremos lo aprendido para clasificar enfermedades en imágenes de rayos X y segmentar tumores en imágenes cerebrales de resonancia magnética en 3D. Finalmente, aprenderemos a evaluar adecuadamente el rendimiento de nuestros modelos.
 
 ### Week 1: Disease detection with computer vision
 
