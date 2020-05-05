@@ -26,12 +26,15 @@ Nos reunimos semanalmente abarcando temas específicos, revisando el material di
 
 ### Week 1: Disease detection with computer vision
 
-Tema  | Notebook |
+Exercises  | Notebook |
 ------|:-:|
 Data Exploration & Image Pre-Processing | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%201/AI4M_C1_W1_lecture_ex_01.ipynb)
 Counting labels and weighted loss function | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%201/AI4M_C1_W1_lecture_ex_02.ipynb)
 Densenet | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%201/AI4M_C1_W1_lecture_ex_03.ipynb)
-Patient Overlap - practice |
+Patient Overlap - practice |  [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%201/AI4M_C1_W1_lecture_ex_04.ipynb)
 
+Assignment  | Notebook |
+------|:-:|
+Chest X-Ray Medical Diagnosis with Deep Learning | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%201/C1M1_Assignment.ipynb)
 ____
 Únete a nuestra comunidad: https://www.facebook.com/MLDLMeetupAQP/
