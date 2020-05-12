@@ -36,5 +36,11 @@ Patient Overlap - practice |  [![](./imgs/icon_jupyter.png)](./AI%20For%20Medica
 Assignment  | Notebook |
 ------|:-:|
 Chest X-Ray Medical Diagnosis with Deep Learning | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%201/C1M1_Assignment.ipynb)
+
+### Week 2: Evaluating models
+
+Assignment  | Notebook |
+------|:-:|
+Evaluation of Diagnostic Models | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%202/C1M2_Assignment.ipynb)
 ____
 Únete a nuestra comunidad: https://www.facebook.com/MLDLMeetupAQP/
