@@ -42,5 +42,17 @@ Chest X-Ray Medical Diagnosis with Deep Learning | [![](./imgs/icon_jupyter.png)
 Assignment  | Notebook |
 ------|:-:|
 Evaluation of Diagnostic Models | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%202/C1M2_Assignment.ipynb)
+
+### Week 3: Image segmentation on MRI images
+
+Exercises  | Notebook |
+------|:-:|
+Explore MRI Data | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%203/AI4M_C1_W3_lecture_ex_01.ipynb)
+Get a sub section  | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%203/AI4M_C1_W3_lecture_ex_02.ipynb)
+Implement U-Net  | [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%203/AI4M_C1_W3_lecture_ex_03.ipynb)
+
+Assignment  | Notebook |
+------|:-:|
+Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)| [![](./imgs/icon_jupyter.png)](./AI%20For%20Medical%20Diagnosis/Week%203/C1M3_Assignment.ipynb)
 ____
 Únete a nuestra comunidad: https://www.facebook.com/MLDLMeetupAQP/
